@@ -1,4 +1,12 @@
 hello
 
-lll
-hjshjdhgfgggf
+<<<<<<< HEAD
+l111
+jshdfjhsjfhjsdhfksaljkljfla
+shjdhgfgggf
+=======
+fdl;s;ldfks;
+ll
+shdfjhsjfhjsdhfksaljkljfla
+
+>>>>>>> main
